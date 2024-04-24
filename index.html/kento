@@ -1,6 +1,10 @@
- <h1>自己紹介</h1>
- <section>
- <h2>眠りのケントの紹介</h2>
- <p>私の名前は石川健人です！</p>
- <p>いつも寝てますが、やるときはやる男です</p>
- </section>
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>眠りのケント</title>
+  </head>
+  <body>私の名前はイシカワケントです</body>
+</html>
